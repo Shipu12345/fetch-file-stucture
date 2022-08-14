@@ -1,0 +1,105 @@
+{
+    ".git": {
+        "COMMIT_EDITMSG": "U",
+        "HEAD": "U",
+        "branches": {},
+        "config": "U",
+        "description": "U",
+        "hooks": {
+            "applypatch-msg.sample": "U",
+            "commit-msg.sample": "U",
+            "fsmonitor-watchman.sample": "U",
+            "post-update.sample": "U",
+            "pre-applypatch.sample": "U",
+            "pre-commit.sample": "U",
+            "pre-merge-commit.sample": "U",
+            "pre-push.sample": "U",
+            "pre-rebase.sample": "U",
+            "pre-receive.sample": "U",
+            "prepare-commit-msg.sample": "U",
+            "update.sample": "U"
+        },
+        "index": "U",
+        "info": {
+            "exclude": "U"
+        },
+        "logs": {
+            "HEAD": "U",
+            "refs": {
+                "heads": {
+                    "main": "U"
+                },
+                "remotes": {
+                    "origin": {
+                        "HEAD": "U",
+                        "main": "U"
+                    }
+                }
+            }
+        },
+        "objects": {
+            "17": {
+                "d5660acee5f8b00e10aa7c1a7f2768b62aa7bb": "U"
+            },
+            "30": {
+                "6af53544b472bc3925496b738a57761bc34ccf": "U"
+            },
+            "49": {
+                "1145d6db2986af8a46264c4416402896599972": "U"
+            },
+            "4d": {
+                "aa1c3547742344695f9b0edf2fc4f02781a3da": "U"
+            },
+            "55": {
+                "3a9351e4ff9d84b2c857f63eef9699f51a6b90": "U"
+            },
+            "67": {
+                "3aeba65adc44855d28279f5f06d3a9c483901b": "U"
+            },
+            "8e": {
+                "31fa7dfc2b8432d41e1dcd430c7c2fe3c367aa": "U"
+            },
+            "bc": {
+                "e0855b74ec97ea1c97f15bf408102be78c6357": "U"
+            },
+            "df": {
+                "86c91fee930069ac293814753c2dea00c514f0": "U"
+            },
+            "f3": {
+                "1b4963f08c47beb3aaff3d758e8a2f8925157e": "U"
+            },
+            "info": {},
+            "pack": {
+                "pack-090b5bd0b4efb769061790862808a03fc4676fd0.idx": "U",
+                "pack-090b5bd0b4efb769061790862808a03fc4676fd0.pack": "U"
+            }
+        },
+        "packed-refs": "U",
+        "refs": {
+            "heads": {
+                "main": "U"
+            },
+            "remotes": {
+                "origin": {
+                    "HEAD": "U",
+                    "main": "U"
+                }
+            },
+            "tags": {}
+        }
+    },
+    ".gitignore": "U",
+    "LICENSE": "U",
+    "README.md": "U",
+    "main.py": "U",
+    "src": {
+        "FileStatus.py": "U",
+        "FileTree.py": "U",
+        "JsonMap.py": "U",
+        "__pycache__": {
+            "FileStatus.cpython-38.pyc": "U",
+            "FileTree.cpython-38.pyc": "U",
+            "JsonMap.cpython-38.pyc": "U"
+        }
+    }
+}
